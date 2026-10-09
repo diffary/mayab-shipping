@@ -1,0 +1,1001 @@
+Order,Country,Carrier,Tracking,Ship date,Last event,Last event date
+100001,Канада,PostLink,PL47483092,20.09.2026,Delivered,25.09.2026
+100002,Канада,PostLink,PL94699845,06.10.2026,In transit,12.10.2026
+100003,Мексика,AndesCargo,AC42940501,19.09.2026,Delivered,25.09.2026
+100004,Бразилія,SwiftParcel,SP6865562,03.10.2026,Address issue,06.10.2026
+100005,Мексика,AndesCargo,AC83407141,09.10.2026,In transit,15.10.2026
+100006,Бразилія,SwiftParcel,SP8115549,06.09.2026,Delivered,17.09.2026
+100007,Канада,PostLink,PL19701823,25.09.2026,Delivered,07.10.2026
+100008,Бразилія,SwiftParcel,SP1984975,11.10.2026,Label created,11.10.2026
+100009,Бразилія,AndesCargo,AC17088206,30.09.2026,Held at customs,01.10.2026
+100010,Канада,PostLink,PL23325420,05.10.2026,Out for delivery,11.10.2026
+100011,Бразилія,AndesCargo,AC69505399,25.09.2026,Delivered,28.09.2026
+100012,Бразилія,SwiftParcel,SP1413050,24.09.2026,Held at customs,02.10.2026
+100013,Мексика,AndesCargo,AC21513905,29.09.2026,Delivered,07.10.2026
+100014,Бразилія,SwiftParcel,SP6254736,09.10.2026,Held at customs,14.10.2026
+100015,Канада,PostLink,PL50767893,29.09.2026,Delivered,03.10.2026
+100016,Канада,PostLink,PL55454623,08.10.2026,In transit,14.10.2026
+100017,Бразилія,SwiftParcel,SP9072398,05.09.2026,Delivered,17.09.2026
+100018,Мексика,AndesCargo,AC49101098,10.10.2026,In transit,11.10.2026
+100019,Канада,PostLink,PL53516123,22.09.2026,Delivered,03.10.2026
+100020,Канада,PostLink,PL15848486,23.09.2026,Delivered,27.09.2026
+100021,Канада,PostLink,PL52788518,07.10.2026,In transit,12.10.2026
+100022,Бразилія,SwiftParcel,SP9406339,11.09.2026,Delivered,22.09.2026
+100023,Мексика,AndesCargo,AC53964956,27.09.2026,Delivered,05.10.2026
+100024,Канада,PostLink,PL70953926,27.09.2026,Delivered,07.10.2026
+100025,Канада,PostLink,PL87707694,07.10.2026,Out for delivery,09.10.2026
+100026,Канада,PostLink,PL87256262,19.09.2026,Delivered,29.09.2026
+100027,Бразилія,AndesCargo,AC55452681,26.09.2026,Delivered,08.10.2026
+100028,Мексика,AndesCargo,AC64032649,29.09.2026,Address issue,05.10.2026
+100029,Бразилія,SwiftParcel,SP1487752,08.10.2026,In transit,11.10.2026
+100030,Канада,PostLink,PL65178090,12.10.2026,In transit,15.10.2026
+100031,Бразилія,AndesCargo,AC24352921,06.10.2026,In transit,11.10.2026
+100032,Мексика,AndesCargo,AC96037885,16.09.2026,Delivered,27.09.2026
+100033,Канада,PostLink,PL96334071,12.09.2026,Delivered,18.09.2026
+100034,Мексика,AndesCargo,AC89236663,29.09.2026,Delivered,02.10.2026
+100035,Мексика,AndesCargo,AC39519156,28.09.2026,Held at customs,03.10.2026
+100036,Мексика,SwiftParcel,SP8586550,07.10.2026,In transit,14.10.2026
+100037,Мексика,AndesCargo,AC19756701,01.10.2026,In transit,09.10.2026
+100038,Мексика,SwiftParcel,SP4378321,04.10.2026,Returned to sender,11.10.2026
+100039,Бразилія,SwiftParcel,SP7773684,10.10.2026,In transit,12.10.2026
+100040,Бразилія,SwiftParcel,SP6902665,11.10.2026,In transit,12.10.2026
+100041,Бразилія,AndesCargo,AC96178316,02.10.2026,Delivered,09.10.2026
+100042,Канада,PostLink,PL52352674,25.09.2026,Delivered,06.10.2026
+100043,Канада,PostLink,PL47917428,16.09.2026,Delivered,27.09.2026
+100044,Канада,PostLink,PL64801201,08.09.2026,Delivered,19.09.2026
+100045,Бразилія,SwiftParcel,SP3354293,06.10.2026,In transit,14.10.2026
+100046,Канада,PostLink,PL95451651,08.10.2026,Address issue,13.10.2026
+100047,Мексика,AndesCargo,AC14865364,12.09.2026,Delivered,24.09.2026
+100048,Бразилія,SwiftParcel,SP2517949,13.09.2026,Delivered,16.09.2026
+100049,Бразилія,AndesCargo,AC72325967,03.10.2026,Held at customs,08.10.2026
+100050,Мексика,AndesCargo,AC55169809,01.10.2026,In transit,09.10.2026
+100051,Бразилія,SwiftParcel,SP3427583,01.10.2026,Held at customs,07.10.2026
+100052,Мексика,AndesCargo,AC59360709,03.10.2026,Delivered,10.10.2026
+100053,Бразилія,AndesCargo,,27.09.2026,,
+100054,Бразилія,SwiftParcel,SP6635524,28.09.2026,Delivered,07.10.2026
+100055,Мексика,AndesCargo,AC63942720,13.09.2026,Delivered,23.09.2026
+100056,Мексика,AndesCargo,AC30079420,05.10.2026,Delivered,11.10.2026
+100057,Мексика,AndesCargo,AC74395928,02.10.2026,Delivered,07.10.2026
+100058,Мексика,SwiftParcel,SP1050264,20.09.2026,Delivered,25.09.2026
+100059,Бразилія,SwiftParcel,SP9967190,07.10.2026,In transit,11.10.2026
+100060,Канада,PostLink,PL84200104,21.09.2026,Delivered,25.09.2026
+100061,Бразилія,SwiftParcel,SP5451570,01.10.2026,Held at customs,03.10.2026
+100062,Мексика,AndesCargo,AC38752097,17.09.2026,Delivered,20.09.2026
+100063,Мексика,AndesCargo,AC99751612,29.09.2026,Delivered,03.10.2026
+100064,Бразилія,SwiftParcel,SP9039487,10.10.2026,In transit,12.10.2026
+100065,Мексика,AndesCargo,AC32430926,11.09.2026,Delivered,17.09.2026
+100066,Мексика,AndesCargo,AC48734237,06.09.2026,Delivered,17.09.2026
+100067,Канада,PostLink,PL38806471,09.09.2026,Delivered,20.09.2026
+100068,Мексика,AndesCargo,AC98218945,14.10.2026,In transit,15.10.2026
+100069,Бразилія,SwiftParcel,SP1946885,28.09.2026,Held at customs,03.10.2026
+100070,Мексика,AndesCargo,AC40676825,17.09.2026,Delivered,21.09.2026
+100071,Канада,PostLink,PL29909433,29.09.2026,Delivered,08.10.2026
+100072,Мексика,AndesCargo,AC17842328,16.09.2026,Delivered,28.09.2026
+100073,Канада,PostLink,PL52352674,02.10.2026,Delivered,11.10.2026
+100074,Мексика,AndesCargo,AC59349764,06.10.2026,In transit,14.10.2026
+100075,Бразилія,SwiftParcel,SP4040093,28.09.2026,Delivered,10.10.2026
+100076,Мексика,AndesCargo,AC77638546,13.10.2026,In transit,14.10.2026
+100077,Бразилія,SwiftParcel,SP6290969,05.10.2026,In transit,09.10.2026
+100078,Бразилія,SwiftParcel,SP4775340,01.10.2026,In transit,06.10.2026
+100079,Мексика,AndesCargo,AC25587709,08.10.2026,In transit,11.10.2026
+100080,Мексика,AndesCargo,AC66675388,20.09.2026,Delivered,27.09.2026
+100081,Канада,PostLink,PL21350180,05.10.2026,In transit,09.10.2026
+100082,Мексика,SwiftParcel,SP5514317,17.09.2026,Delivered,25.09.2026
+100083,Мексика,AndesCargo,AC54269625,11.10.2026,Delivered,15.10.2026
+100084,Канада,PostLink,PL87042077,12.09.2026,Delivered,17.09.2026
+100085,Канада,PostLink,PL50263461,18.09.2026,Delivered,22.09.2026
+100086,Мексика,AndesCargo,AC14183563,06.10.2026,Delivered,14.10.2026
+100087,Канада,PostLink,PL22597847,06.10.2026,Out for delivery,10.10.2026
+100088,Мексика,AndesCargo,AC25060853,21.09.2026,Delivered,29.09.2026
+100089,Бразилія,SwiftParcel,SP5547964,01.10.2026,Held at customs,04.10.2026
+100090,Бразилія,SwiftParcel,SP8024974,03.10.2026,In transit,11.10.2026
+100091,Канада,PostLink,PL94923503,11.09.2026,Delivered,17.09.2026
+100092,Мексика,AndesCargo,AC24746297,15.09.2026,Delivered,26.09.2026
+100093,Мексика,AndesCargo,AC83277084,25.09.2026,Delivered,02.10.2026
+100094,Бразилія,SwiftParcel,SP3115158,05.10.2026,In transit,13.10.2026
+100095,Канада,PostLink,PL97834934,30.09.2026,Delivered,04.10.2026
+100096,Канада,PostLink,PL87956716,17.09.2026,Delivered,28.09.2026
+100097,Канада,PostLink,PL30907468,19.09.2026,Delivered,24.09.2026
+100098,Бразилія,SwiftParcel,SP9121371,05.10.2026,In transit,09.10.2026
+100099,Мексика,SwiftParcel,SP5904704,03.10.2026,Held at customs,09.10.2026
+100100,Канада,PostLink,PL25818871,05.10.2026,In transit,12.10.2026
+100101,Канада,PostLink,PL11098546,24.09.2026,Delivered,06.10.2026
+100102,Мексика,AndesCargo,AC60936479,14.09.2026,Delivered,19.09.2026
+100103,Мексика,SwiftParcel,SP8709614,12.10.2026,Label created,12.10.2026
+100104,Мексика,AndesCargo,AC47052519,15.09.2026,Delivered,24.09.2026
+100105,Мексика,SwiftParcel,SP1893794,16.09.2026,Delivered,26.09.2026
+100106,Канада,PostLink,PL15645944,09.10.2026,In transit,10.10.2026
+100107,Мексика,AndesCargo,AC83957885,03.10.2026,In transit,09.10.2026
+100108,Канада,PostLink,PL73607652,04.10.2026,Label created,04.10.2026
+100109,Мексика,AndesCargo,AC42186971,08.09.2026,Delivered,20.09.2026
+100110,Мексика,AndesCargo,AC25623375,10.10.2026,Label created,10.10.2026
+100111,Канада,PostLink,PL44022960,04.10.2026,Out for delivery,10.10.2026
+100112,Мексика,AndesCargo,AC65691671,08.10.2026,Returned to sender,15.10.2026
+100113,Мексика,AndesCargo,AC69192728,11.09.2026,Delivered,19.09.2026
+100114,Мексика,AndesCargo,AC29377480,15.09.2026,Delivered,26.09.2026
+100115,Мексика,AndesCargo,AC55766175,06.10.2026,In transit,14.10.2026
+100116,Канада,PostLink,PL74458865,24.09.2026,Delivered,27.09.2026
+100117,Мексика,SwiftParcel,SP7664658,14.09.2026,Delivered,19.09.2026
+100118,Мексика,SwiftParcel,SP5113308,27.09.2026,Delivered,05.10.2026
+100119,Мексика,AndesCargo,AC76119027,22.09.2026,Delivered,30.09.2026
+100120,Бразилія,SwiftParcel,SP7691726,04.10.2026,In transit,12.10.2026
+100121,Мексика,AndesCargo,AC30116719,06.10.2026,In transit,09.10.2026
+100122,Бразилія,SwiftParcel,SP2251344,17.09.2026,Delivered,20.09.2026
+100123,Бразилія,AndesCargo,AC48722272,22.09.2026,Delivered,03.10.2026
+100124,Бразилія,AndesCargo,AC44170266,25.09.2026,Delivered,29.09.2026
+100125,Бразилія,SwiftParcel,SP7556408,19.09.2026,Delivered,25.09.2026
+100126,Мексика,SwiftParcel,SP4004006,29.09.2026,In transit,02.10.2026
+100127,Мексика,AndesCargo,AC84874239,10.09.2026,Delivered,21.09.2026
+100128,Мексика,SwiftParcel,SP9608696,24.09.2026,Delivered,27.09.2026
+100129,Бразилія,SwiftParcel,SP4191685,03.10.2026,Delivered,14.10.2026
+100130,Мексика,AndesCargo,AC43274682,09.10.2026,In transit,11.10.2026
+100131,Мексика,AndesCargo,AC61940558,24.09.2026,Delivered,27.09.2026
+100132,Мексика,AndesCargo,AC16037048,09.09.2026,Delivered,19.09.2026
+100133,Бразилія,AndesCargo,AC51876967,12.10.2026,Delivered,15.10.2026
+100134,Мексика,AndesCargo,AC81764645,30.09.2026,In transit,06.10.2026
+100135,Мексика,AndesCargo,AC63080972,06.10.2026,Returned to sender,09.10.2026
+100136,Мексика,AndesCargo,AC30332159,07.10.2026,Out for delivery,13.10.2026
+100137,Канада,PostLink,PL21229122,28.09.2026,Delivered,10.10.2026
+100138,Мексика,AndesCargo,AC44226817,04.10.2026,Delivered,11.10.2026
+100139,Мексика,AndesCargo,AC11807668,17.09.2026,Delivered,27.09.2026
+100140,Мексика,AndesCargo,AC36374279,01.10.2026,Delivered,07.10.2026
+100141,Бразилія,SwiftParcel,SP5023654,04.10.2026,In transit,11.10.2026
+100142,Канада,PostLink,PL21082317,27.09.2026,Delivered,03.10.2026
+100143,Мексика,AndesCargo,AC14061517,17.09.2026,Delivered,20.09.2026
+100144,Мексика,SwiftParcel,SP3167208,19.09.2026,Delivered,24.09.2026
+100145,Мексика,AndesCargo,AC28713583,02.10.2026,In transit,09.10.2026
+100146,Канада,PostLink,PL40212322,10.10.2026,In transit,13.10.2026
+100147,Мексика,AndesCargo,AC49160575,19.09.2026,Delivered,30.09.2026
+100148,Мексика,AndesCargo,AC48962841,30.09.2026,Out for delivery,01.10.2026
+100149,Мексика,AndesCargo,AC44211637,25.09.2026,In transit,03.10.2026
+100150,Канада,PostLink,PL31461665,12.09.2026,Delivered,20.09.2026
+100151,Канада,PostLink,PL25101872,02.10.2026,Held at customs,04.10.2026
+100152,Бразилія,AndesCargo,AC26316291,07.10.2026,In transit,14.10.2026
+100153,Канада,PostLink,PL61515518,09.10.2026,Label created,09.10.2026
+100154,Мексика,AndesCargo,AC44172373,07.09.2026,Delivered,19.09.2026
+100155,Канада,PostLink,PL98993191,02.10.2026,In transit,09.10.2026
+100156,Бразилія,SwiftParcel,SP9436705,25.09.2026,In transit,28.09.2026
+100157,Мексика,AndesCargo,AC63491960,28.09.2026,Delivered,07.10.2026
+100158,Бразилія,SwiftParcel,SP4131505,14.09.2026,Delivered,19.09.2026
+100159,Мексика,AndesCargo,AC38767928,04.10.2026,Delivered,14.10.2026
+100160,Мексика,AndesCargo,AC22620165,09.10.2026,In transit,13.10.2026
+100161,Канада,PostLink,PL35339110,01.10.2026,In transit,09.10.2026
+100162,Мексика,SwiftParcel,SP9754835,23.09.2026,In transit,30.09.2026
+100163,Канада,PostLink,PL18657245,12.09.2026,Delivered,24.09.2026
+100164,Мексика,AndesCargo,AC33726992,02.10.2026,Delivered,14.10.2026
+100165,Бразилія,AndesCargo,AC15778801,02.10.2026,Held at customs,10.10.2026
+100166,Бразилія,SwiftParcel,SP7648804,06.09.2026,Delivered,18.09.2026
+100167,Канада,PostLink,PL96719007,17.09.2026,Delivered,29.09.2026
+100168,Бразилія,SwiftParcel,SP1823495,24.09.2026,Delivered,04.10.2026
+100169,Мексика,AndesCargo,AC67286916,06.10.2026,Held at customs,07.10.2026
+100170,Мексика,AndesCargo,AC18840497,06.10.2026,In transit,11.10.2026
+100171,Канада,PostLink,PL79771050,05.10.2026,In transit,12.10.2026
+100172,Мексика,AndesCargo,AC23545594,28.09.2026,In transit,29.09.2026
+100173,Мексика,SwiftParcel,SP1578168,23.09.2026,Delivered,04.10.2026
+100174,Бразилія,SwiftParcel,SP8486151,08.10.2026,In transit,10.10.2026
+100175,Бразилія,SwiftParcel,SP3696274,06.10.2026,Address issue,07.10.2026
+100176,Бразилія,AndesCargo,AC29893244,29.09.2026,Delivered,11.10.2026
+100177,Мексика,AndesCargo,AC66486737,07.09.2026,Delivered,18.09.2026
+100178,Мексика,AndesCargo,AC15046841,05.10.2026,Returned to sender,11.10.2026
+100179,Мексика,AndesCargo,AC63290995,04.10.2026,In transit,09.10.2026
+100180,Канада,PostLink,PL20054813,22.09.2026,Delivered,26.09.2026
+100181,Мексика,SwiftParcel,SP2397425,04.10.2026,Address issue,11.10.2026
+100182,Мексика,AndesCargo,AC23264179,10.10.2026,In transit,14.10.2026
+100183,Бразилія,SwiftParcel,SP2260395,09.10.2026,In transit,13.10.2026
+100184,Бразилія,SwiftParcel,SP3235619,25.09.2026,Delivered,06.10.2026
+100185,Мексика,AndesCargo,AC52342601,14.10.2026,Out for delivery,15.10.2026
+100186,Мексика,AndesCargo,AC88967460,01.10.2026,Delivered,28.09.2026
+100187,Мексика,AndesCargo,AC41251125,10.10.2026,In transit,14.10.2026
+100188,Канада,PostLink,PL26433685,16.09.2026,Delivered,27.09.2026
+100189,Мексика,SwiftParcel,SP7061716,17.09.2026,Delivered,20.09.2026
+100190,Бразилія,AndesCargo,AC57604360,03.09.2026,Delivered,15.09.2026
+100191,Бразилія,SwiftParcel,SP9199722,14.10.2026,Address issue,15.10.2026
+100192,Мексика,AndesCargo,AC11231818,25.09.2026,Delivered,28.09.2026
+100193,Мексика,AndesCargo,AC14711626,03.10.2026,Held at customs,06.10.2026
+100194,Бразилія,AndesCargo,AC42617654,24.09.2026,Delivered,01.10.2026
+100195,Мексика,AndesCargo,AC36204855,29.09.2026,Delivered,03.10.2026
+100196,Бразилія,SwiftParcel,SP8151122,19.09.2026,Delivered,26.09.2026
+100197,Мексика,AndesCargo,AC47947905,27.09.2026,Delivered,30.09.2026
+100198,Мексика,AndesCargo,AC88141170,02.10.2026,In transit,09.10.2026
+100199,Бразилія,SwiftParcel,SP9627207,26.09.2026,Delivered,02.10.2026
+100200,Мексика,AndesCargo,AC74103261,29.09.2026,Label created,29.09.2026
+100201,Бразилія,SwiftParcel,SP8905003,01.10.2026,In transit,09.10.2026
+100202,Мексика,AndesCargo,AC50469536,08.09.2026,Delivered,19.09.2026
+100203,Мексика,AndesCargo,AC51640139,08.10.2026,Out for delivery,13.10.2026
+100204,Бразилія,SwiftParcel,SP4894726,06.10.2026,In transit,12.10.2026
+100205,Канада,PostLink,PL93997531,22.09.2026,Delivered,30.09.2026
+100206,Мексика,AndesCargo,AC57824445,12.10.2026,Held at customs,14.10.2026
+100207,Мексика,SwiftParcel,SP6141211,10.10.2026,Address issue,11.10.2026
+100208,Бразилія,SwiftParcel,SP1834523,24.09.2026,Delivered,06.10.2026
+100209,Канада,PostLink,PL27228837,08.10.2026,Delivered,12.10.2026
+100210,Мексика,SwiftParcel,SP6717341,20.09.2026,Delivered,02.10.2026
+100211,Мексика,AndesCargo,AC77669174,10.10.2026,Label created,10.10.2026
+100212,Мексика,AndesCargo,AC80652510,05.10.2026,In transit,12.10.2026
+100213,Канада,PostLink,PL41085760,07.10.2026,In transit,14.10.2026
+100214,Бразилія,SwiftParcel,SP7364612,07.10.2026,In transit,14.10.2026
+100215,Канада,PostLink,PL10196391,28.09.2026,Delivered,06.10.2026
+100216,Канада,PostLink,PL14185832,11.10.2026,In transit,14.10.2026
+100217,Мексика,SwiftParcel,SP9215714,24.09.2026,Delivered,05.10.2026
+100218,Канада,PostLink,PL83558254,20.09.2026,Delivered,27.09.2026
+100219,Бразилія,SwiftParcel,SP2450068,12.09.2026,Delivered,19.09.2026
+100220,Мексика,AndesCargo,AC96347156,26.09.2026,Delivered,08.10.2026
+100221,Канада,PostLink,PL68622729,07.10.2026,Label created,07.10.2026
+100222,Мексика,AndesCargo,AC79152883,30.09.2026,Delivered,12.10.2026
+100223,Мексика,AndesCargo,AC19167854,03.10.2026,Delivered,06.10.2026
+100224,Мексика,AndesCargo,AC18880730,09.10.2026,In transit,10.10.2026
+100225,Мексика,AndesCargo,AC12514958,27.09.2026,Delivered,05.10.2026
+100226,Мексика,AndesCargo,AC88075876,08.10.2026,In transit,13.10.2026
+100227,Мексика,AndesCargo,AC38286232,03.10.2026,Delivered,08.10.2026
+100228,Бразилія,SwiftParcel,SP1593022,18.09.2026,Delivered,28.09.2026
+100229,Мексика,AndesCargo,AC34836701,03.10.2026,Delivered,15.10.2026
+100230,Мексика,AndesCargo,AC40184627,04.10.2026,Delivered,10.10.2026
+100231,Бразилія,SwiftParcel,SP6265681,13.10.2026,Address issue,14.10.2026
+100232,Бразилія,AndesCargo,AC30140268,09.09.2026,Delivered,19.09.2026
+100233,Бразилія,SwiftParcel,SP8424283,13.10.2026,In transit,15.10.2026
+100234,Мексика,AndesCargo,AC17710709,06.10.2026,Delivered,10.10.2026
+100235,Канада,PostLink,PL48401223,05.10.2026,In transit,09.10.2026
+100236,Канада,PostLink,PL14330267,12.09.2026,Delivered,18.09.2026
+100237,Мексика,AndesCargo,AC98524103,05.10.2026,In transit,13.10.2026
+100238,Бразилія,AndesCargo,AC21996188,15.09.2026,Delivered,24.09.2026
+100239,Канада,PostLink,PL56131313,09.09.2026,Delivered,19.09.2026
+100240,Бразилія,AndesCargo,AC47167418,30.09.2026,In transit,07.10.2026
+100241,Канада,PostLink,PL64929513,03.10.2026,Out for delivery,09.10.2026
+100242,Канада,PostLink,PL78617139,23.09.2026,Delivered,03.10.2026
+100243,Канада,PostLink,PL86076643,03.10.2026,Delivered,10.10.2026
+100244,Канада,PostLink,PL32405094,17.09.2026,Delivered,22.09.2026
+100245,Мексика,AndesCargo,AC41598661,02.10.2026,In transit,07.10.2026
+100246,Мексика,AndesCargo,AC51572642,27.09.2026,Delivered,07.10.2026
+100247,Мексика,AndesCargo,AC24418149,24.09.2026,Delivered,04.10.2026
+100248,Канада,PostLink,PL81753670,28.09.2026,In transit,06.10.2026
+100249,Канада,PostLink,PL97170675,09.09.2026,Delivered,15.09.2026
+100250,Бразилія,SwiftParcel,SP6960980,29.09.2026,Label created,29.09.2026
+100251,Бразилія,AndesCargo,AC55912809,04.10.2026,In transit,10.10.2026
+100252,Бразилія,SwiftParcel,SP5544695,30.09.2026,Delivered,03.10.2026
+100253,Мексика,SwiftParcel,SP6107059,11.10.2026,In transit,15.10.2026
+100254,Мексика,AndesCargo,AC41105365,01.10.2026,Delivered,04.10.2026
+100255,Бразилія,AndesCargo,AC39898258,04.10.2026,In transit,07.10.2026
+100256,Канада,PostLink,PL51801258,12.10.2026,Out for delivery,14.10.2026
+100257,Мексика,AndesCargo,AC90566524,06.09.2026,Delivered,17.09.2026
+100258,Мексика,SwiftParcel,SP9585740,01.10.2026,In transit,09.10.2026
+100259,Канада,PostLink,PL68129879,28.09.2026,Delivered,04.10.2026
+100260,Канада,PostLink,PL27929393,03.10.2026,Delivered,08.10.2026
+100261,Мексика,SwiftParcel,SP4086126,22.09.2026,Delivered,30.09.2026
+100262,Канада,PostLink,PL38375001,20.09.2026,Delivered,26.09.2026
+100263,Канада,PostLink,PL55959518,27.09.2026,Delivered,09.10.2026
+100264,Канада,PostLink,PL39201921,09.10.2026,In transit,10.10.2026
+100265,Мексика,AndesCargo,AC59227342,11.10.2026,Delivered,14.10.2026
+100266,Бразилія,SwiftParcel,SP9576073,26.09.2026,Delivered,30.09.2026
+100267,Мексика,AndesCargo,AC86891867,07.10.2026,In transit,13.10.2026
+100268,Канада,PostLink,PL45174647,14.09.2026,Delivered,18.09.2026
+100269,Мексика,AndesCargo,AC53951903,12.10.2026,In transit,15.10.2026
+100270,Бразилія,SwiftParcel,SP6137410,12.09.2026,Delivered,19.09.2026
+100271,Бразилія,AndesCargo,AC31790975,08.10.2026,Delivered,15.10.2026
+100272,Мексика,AndesCargo,AC92271501,23.09.2026,Delivered,02.10.2026
+100273,Мексика,AndesCargo,AC76323836,13.09.2026,Delivered,25.09.2026
+100274,Бразилія,SwiftParcel,SP6900818,10.10.2026,In transit,13.10.2026
+100275,Бразилія,SwiftParcel,SP4225716,10.09.2026,Delivered,22.09.2026
+100276,Мексика,AndesCargo,AC42600891,09.09.2026,Delivered,19.09.2026
+100277,Бразилія,SwiftParcel,SP9713322,06.10.2026,In transit,07.10.2026
+100278,Мексика,AndesCargo,AC85575378,08.10.2026,In transit,11.10.2026
+100279,Канада,PostLink,PL85460486,22.09.2026,Delivered,03.10.2026
+100280,Канада,PostLink,PL60081103,15.09.2026,Delivered,27.09.2026
+100281,Мексика,AndesCargo,AC96554179,08.10.2026,In transit,12.10.2026
+100282,Бразилія,SwiftParcel,SP6990753,03.10.2026,Delivered,13.10.2026
+100283,Бразилія,SwiftParcel,SP7108078,13.09.2026,Delivered,16.09.2026
+100284,Мексика,AndesCargo,AC86338188,10.10.2026,Label created,10.10.2026
+100285,Бразилія,SwiftParcel,SP1996460,26.09.2026,Delivered,08.10.2026
+100286,Мексика,AndesCargo,AC72534657,30.09.2026,Delivered,09.10.2026
+100287,Мексика,AndesCargo,AC27668280,02.10.2026,Delivered,10.10.2026
+100288,Бразилія,SwiftParcel,SP4930114,01.10.2026,Address issue,06.10.2026
+100289,Мексика,AndesCargo,AC84104840,20.09.2026,Delivered,01.10.2026
+100290,Мексика,AndesCargo,AC89462236,22.09.2026,Delivered,29.09.2026
+100291,Мексика,SwiftParcel,SP1108020,19.09.2026,Delivered,24.09.2026
+100292,Мексика,AndesCargo,AC97875466,23.09.2026,Delivered,02.10.2026
+100293,Бразилія,SwiftParcel,SP8539797,07.09.2026,Delivered,17.09.2026
+100294,Мексика,SwiftParcel,SP1906386,13.09.2026,Delivered,19.09.2026
+100295,Бразилія,SwiftParcel,SP3303654,19.09.2026,Delivered,28.09.2026
+100296,Мексика,AndesCargo,AC89667459,20.09.2026,Delivered,01.10.2026
+100297,Канада,PostLink,PL75537048,17.09.2026,Delivered,27.09.2026
+100298,Мексика,AndesCargo,AC90246909,29.09.2026,Held at customs,02.10.2026
+100299,Бразилія,SwiftParcel,SP2089302,13.10.2026,Held at customs,14.10.2026
+100300,Мексика,SwiftParcel,SP6625345,05.10.2026,In transit,13.10.2026
+100301,Бразилія,AndesCargo,AC47339187,04.10.2026,Delivered,14.10.2026
+100302,Бразилія,AndesCargo,AC32037475,25.09.2026,Delivered,29.09.2026
+100303,Мексика,AndesCargo,AC77850526,27.09.2026,Held at customs,05.10.2026
+100304,Бразилія,SwiftParcel,SP4246340,29.09.2026,Delivered,11.10.2026
+100305,Бразилія,SwiftParcel,SP3613174,03.10.2026,Held at customs,11.10.2026
+100306,Мексика,AndesCargo,AC30361300,04.10.2026,Delivered,14.10.2026
+100307,Бразилія,AndesCargo,AC62013210,11.10.2026,In transit,12.10.2026
+100308,Канада,PostLink,PL96377095,15.09.2026,Delivered,22.09.2026
+100309,Бразилія,SwiftParcel,SP3921677,14.09.2026,Delivered,21.09.2026
+100310,Бразилія,SwiftParcel,SP2769675,01.10.2026,Delivered,11.10.2026
+100311,Мексика,AndesCargo,AC85028721,01.10.2026,In transit,09.10.2026
+100312,Бразилія,AndesCargo,AC85479177,19.09.2026,Delivered,27.09.2026
+100313,Канада,PostLink,PL81975490,21.09.2026,Delivered,30.09.2026
+100314,Бразилія,AndesCargo,AC89790839,22.09.2026,Delivered,28.09.2026
+100315,Мексика,SwiftParcel,SP2032434,23.09.2026,Delivered,05.10.2026
+100316,Мексика,AndesCargo,AC58528492,04.10.2026,Address issue,10.10.2026
+100317,Мексика,AndesCargo,AC38065998,24.09.2026,Held at customs,01.10.2026
+100318,Мексика,AndesCargo,AC52082393,06.10.2026,Held at customs,10.10.2026
+100319,Канада,PostLink,PL62170134,13.10.2026,In transit,14.10.2026
+100320,Мексика,AndesCargo,AC91097720,04.10.2026,Label created,04.10.2026
+100321,Мексика,SwiftParcel,SP6372932,12.10.2026,In transit,14.10.2026
+100322,Мексика,AndesCargo,AC57117052,11.10.2026,In transit,12.10.2026
+100323,Бразилія,SwiftParcel,SP9952558,07.10.2026,Delivered,11.10.2026
+100324,Мексика,AndesCargo,AC60410903,30.09.2026,Out for delivery,03.10.2026
+100325,Мексика,AndesCargo,AC37992546,05.10.2026,In transit,10.10.2026
+100326,Бразилія,SwiftParcel,SP3461122,23.09.2026,Delivered,28.09.2026
+100327,Мексика,AndesCargo,AC91429857,30.09.2026,In transit,06.10.2026
+100328,Мексика,SwiftParcel,SP7016757,13.10.2026,In transit,14.10.2026
+100329,Канада,PostLink,PL89516778,13.09.2026,Delivered,23.09.2026
+100330,Мексика,AndesCargo,AC81523447,11.10.2026,Address issue,14.10.2026
+100331,Мексика,AndesCargo,AC28504648,06.10.2026,Returned to sender,12.10.2026
+100332,Мексика,AndesCargo,AC14003685,04.10.2026,In transit,12.10.2026
+100333,Канада,PostLink,PL50806061,13.10.2026,Out for delivery,14.10.2026
+100334,Мексика,AndesCargo,AC24784076,24.09.2026,Out for delivery,26.09.2026
+100335,Канада,PostLink,PL80159514,19.09.2026,Delivered,01.10.2026
+100336,Канада,PostLink,PL67871319,02.10.2026,Delivered,07.10.2026
+100337,Бразилія,SwiftParcel,SP7901913,12.09.2026,Delivered,21.09.2026
+100338,Канада,PostLink,PL18763355,08.10.2026,Address issue,12.10.2026
+100339,Канада,PostLink,PL71305429,29.09.2026,Delivered,08.10.2026
+100340,Мексика,SwiftParcel,SP3890986,09.10.2026,Delivered,12.10.2026
+100341,Мексика,SwiftParcel,SP8217311,13.10.2026,Held at customs,14.10.2026
+100342,Бразилія,AndesCargo,AC98668222,05.10.2026,Delivered,11.10.2026
+100343,Мексика,AndesCargo,AC16348667,23.09.2026,Delivered,05.10.2026
+100344,Мексика,AndesCargo,AC58863009,05.09.2026,Delivered,16.09.2026
+100345,Канада,PostLink,PL95318682,13.09.2026,Delivered,19.09.2026
+100346,Мексика,AndesCargo,AC59046346,08.10.2026,Delivered,11.10.2026
+100347,Бразилія,SwiftParcel,SP9104764,27.09.2026,Delivered,30.09.2026
+100348,Мексика,AndesCargo,AC73053889,10.10.2026,In transit,12.10.2026
+100349,Бразилія,SwiftParcel,SP7880704,18.09.2026,In transit,25.09.2026
+100350,Бразилія,SwiftParcel,SP6322177,01.10.2026,Returned to sender,09.10.2026
+100351,Мексика,AndesCargo,AC59568414,15.09.2026,Delivered,27.09.2026
+100352,Мексика,AndesCargo,AC24910255,11.09.2026,Delivered,17.09.2026
+100353,Мексика,AndesCargo,AC22275625,28.09.2026,In transit,02.10.2026
+100354,Мексика,AndesCargo,,23.09.2026,,
+100355,Бразилія,SwiftParcel,SP8346516,21.09.2026,In transit,29.09.2026
+100356,Мексика,AndesCargo,AC74117143,25.09.2026,Held at customs,01.10.2026
+100357,Канада,PostLink,PL68783095,24.09.2026,Delivered,29.09.2026
+100358,Мексика,AndesCargo,AC99462470,23.09.2026,In transit,30.09.2026
+100359,Канада,PostLink,PL74076129,03.10.2026,Label created,03.10.2026
+100360,Мексика,SwiftParcel,SP3480269,11.10.2026,Delivered,15.10.2026
+100361,Бразилія,SwiftParcel,SP5348200,07.10.2026,Held at customs,13.10.2026
+100362,Мексика,AndesCargo,AC28594317,21.09.2026,Delivered,28.09.2026
+100363,Бразилія,SwiftParcel,SP8478505,07.10.2026,Returned to sender,08.10.2026
+100364,Мексика,AndesCargo,AC11965141,10.10.2026,In transit,13.10.2026
+100365,Канада,PostLink,PL48024979,07.10.2026,In transit,15.10.2026
+100366,Бразилія,SwiftParcel,SP1363311,04.09.2026,Delivered,15.09.2026
+100367,Бразилія,SwiftParcel,SP8505514,16.09.2026,Delivered,24.09.2026
+100368,Мексика,AndesCargo,AC15863120,23.09.2026,Delivered,05.10.2026
+100369,Мексика,AndesCargo,AC25742774,09.10.2026,Delivered,12.10.2026
+100370,Мексика,AndesCargo,AC31729793,14.09.2026,Delivered,20.09.2026
+100371,Канада,PostLink,PL77606384,05.10.2026,Delivered,09.10.2026
+100372,Канада,PostLink,PL48374582,10.10.2026,In transit,13.10.2026
+100373,Мексика,AndesCargo,AC45547948,06.09.2026,Delivered,18.09.2026
+100374,Мексика,AndesCargo,AC73701420,04.10.2026,Returned to sender,09.10.2026
+100375,Канада,PostLink,PL95461697,04.10.2026,In transit,05.10.2026
+100376,Бразилія,AndesCargo,AC57644132,06.10.2026,In transit,12.10.2026
+100377,Канада,PostLink,PL40797433,04.10.2026,Delivered,10.10.2026
+100378,Канада,PostLink,PL53201892,03.10.2026,Delivered,13.10.2026
+100379,Мексика,AndesCargo,AC61195853,30.09.2026,Delivered,11.10.2026
+100380,Мексика,AndesCargo,AC73373186,08.10.2026,In transit,09.10.2026
+100381,Канада,PostLink,PL95445284,11.10.2026,In transit,14.10.2026
+100382,Мексика,AndesCargo,AC71345735,12.09.2026,Delivered,21.09.2026
+100383,Мексика,AndesCargo,AC96628656,28.09.2026,Delivered,08.10.2026
+100384,Мексика,AndesCargo,AC36964826,17.09.2026,Delivered,26.09.2026
+100385,Бразилія,SwiftParcel,SP2945168,28.09.2026,Delivered,08.10.2026
+100386,Бразилія,SwiftParcel,SP8267960,13.09.2026,Delivered,25.09.2026
+100387,Бразилія,SwiftParcel,SP7698998,15.10.2026,Label created,15.10.2026
+100388,Канада,PostLink,PL49255911,08.10.2026,Delivered,11.10.2026
+100389,Канада,PostLink,PL90290971,06.10.2026,Delivered,12.10.2026
+100390,Мексика,AndesCargo,AC53732124,07.10.2026,In transit,09.10.2026
+100391,Мексика,AndesCargo,AC44855569,12.09.2026,Delivered,23.09.2026
+100392,Бразилія,AndesCargo,AC59761702,12.10.2026,Held at customs,14.10.2026
+100393,Мексика,AndesCargo,AC64538182,07.10.2026,In transit,09.10.2026
+100394,Мексика,AndesCargo,AC27441093,18.09.2026,Delivered,30.09.2026
+100395,Мексика,AndesCargo,AC78369195,05.10.2026,In transit,09.10.2026
+100396,Канада,PostLink,PL15324428,11.10.2026,In transit,15.10.2026
+100397,Бразилія,AndesCargo,AC56655734,23.09.2026,Delivered,26.09.2026
+100398,Мексика,SwiftParcel,SP6145639,16.09.2026,Delivered,19.09.2026
+100399,Бразилія,SwiftParcel,SP6999089,18.09.2026,Delivered,30.09.2026
+100400,Мексика,SwiftParcel,SP9828697,06.10.2026,Held at customs,12.10.2026
+100401,Мексика,AndesCargo,AC51713259,06.10.2026,In transit,10.10.2026
+100402,Бразилія,AndesCargo,AC50506474,20.09.2026,Delivered,28.09.2026
+100403,Канада,PostLink,PL29804231,01.10.2026,Delivered,07.10.2026
+100404,Бразилія,AndesCargo,AC63513499,08.10.2026,Held at customs,13.10.2026
+100405,Мексика,AndesCargo,AC19934691,16.09.2026,Delivered,28.09.2026
+100406,Мексика,AndesCargo,AC15191731,08.10.2026,Held at customs,11.10.2026
+100407,Бразилія,SwiftParcel,SP4687905,05.10.2026,Delivered,12.10.2026
+100408,Канада,PostLink,PL55163873,10.09.2026,Delivered,20.09.2026
+100409,Бразилія,SwiftParcel,SP9784199,04.10.2026,Delivered,08.10.2026
+100410,Мексика,AndesCargo,AC71493337,08.10.2026,Out for delivery,11.10.2026
+100411,Канада,PostLink,PL51310975,09.10.2026,Delivered,15.10.2026
+100412,Бразилія,SwiftParcel,SP5457180,07.10.2026,In transit,13.10.2026
+100413,Мексика,AndesCargo,AC15689421,05.10.2026,Delivered,15.10.2026
+100414,Мексика,AndesCargo,AC25344044,17.09.2026,Delivered,24.09.2026
+100415,Мексика,AndesCargo,AC36129086,10.10.2026,Held at customs,11.10.2026
+100416,Мексика,AndesCargo,AC69086158,23.09.2026,Delivered,26.09.2026
+100417,Бразилія,AndesCargo,AC33201196,28.09.2026,Delivered,08.10.2026
+100418,Мексика,AndesCargo,AC28574072,11.10.2026,Address issue,15.10.2026
+100419,Бразилія,SwiftParcel,SP9681455,07.10.2026,Held at customs,09.10.2026
+100420,Канада,PostLink,PL47542230,04.10.2026,Delivered,15.10.2026
+100421,Бразилія,SwiftParcel,SP9893445,02.10.2026,Returned to sender,09.10.2026
+100422,Бразилія,SwiftParcel,SP9041142,08.10.2026,Delivered,13.10.2026
+100423,Бразилія,SwiftParcel,SP9823129,20.09.2026,Delivered,26.09.2026
+100424,Мексика,AndesCargo,AC39375467,30.09.2026,Delivered,05.10.2026
+100425,Канада,PostLink,PL73722217,20.09.2026,Delivered,02.10.2026
+100426,Канада,PostLink,PL27597120,26.09.2026,In transit,27.09.2026
+100427,Мексика,AndesCargo,AC39206093,10.10.2026,In transit,11.10.2026
+100428,Канада,PostLink,PL86446289,10.10.2026,In transit,11.10.2026
+100429,Бразилія,SwiftParcel,SP2475223,10.10.2026,In transit,14.10.2026
+100430,Мексика,AndesCargo,AC47947905,15.09.2026,Delivered,24.09.2026
+100431,Канада,PostLink,PL73737499,08.10.2026,In transit,15.10.2026
+100432,Канада,PostLink,PL98661162,03.10.2026,Held at customs,11.10.2026
+100433,Канада,PostLink,PL40056685,28.09.2026,Address issue,05.10.2026
+100434,Канада,PostLink,PL78747890,20.09.2026,Delivered,30.09.2026
+100435,Канада,PostLink,PL43295920,06.09.2026,Delivered,18.09.2026
+100436,Мексика,AndesCargo,AC57762592,06.09.2026,Delivered,15.09.2026
+100437,Мексика,AndesCargo,AC34275759,09.10.2026,Out for delivery,11.10.2026
+100438,Мексика,AndesCargo,AC66302368,14.10.2026,In transit,15.10.2026
+100439,Канада,PostLink,PL24780090,11.09.2026,Delivered,21.09.2026
+100440,Бразилія,SwiftParcel,SP9588308,06.10.2026,Out for delivery,12.10.2026
+100441,Канада,PostLink,PL89109595,07.10.2026,Delivered,14.10.2026
+100442,Канада,PostLink,PL86750203,30.09.2026,Delivered,05.10.2026
+100443,Мексика,AndesCargo,AC75668141,06.10.2026,In transit,10.10.2026
+100444,Мексика,SwiftParcel,SP3020265,22.09.2026,Delivered,29.09.2026
+100445,Мексика,AndesCargo,AC93921781,05.10.2026,Delivered,13.10.2026
+100446,Мексика,AndesCargo,AC32875634,02.10.2026,Delivered,06.10.2026
+100447,Канада,PostLink,PL73357676,09.09.2026,Delivered,19.09.2026
+100448,Бразилія,SwiftParcel,SP2398625,05.10.2026,Held at customs,13.10.2026
+100449,Мексика,SwiftParcel,SP1610647,08.10.2026,Delivered,15.10.2026
+100450,Мексика,AndesCargo,AC55283919,18.09.2026,Delivered,30.09.2026
+100451,Канада,PostLink,PL17766671,08.10.2026,In transit,14.10.2026
+100452,Мексика,AndesCargo,AC34066808,28.09.2026,Delivered,03.10.2026
+100453,Бразилія,SwiftParcel,SP1078656,02.10.2026,Delivered,10.10.2026
+100454,Мексика,AndesCargo,AC39811624,08.10.2026,Out for delivery,15.10.2026
+100455,Мексика,SwiftParcel,SP4168505,19.09.2026,Delivered,29.09.2026
+100456,Канада,PostLink,PL65100235,14.09.2026,Delivered,23.09.2026
+100457,Бразилія,SwiftParcel,SP1401174,23.09.2026,Delivered,01.10.2026
+100458,Канада,PostLink,PL31525010,07.10.2026,In transit,14.10.2026
+100459,Мексика,AndesCargo,AC93615212,18.09.2026,Delivered,29.09.2026
+100460,Мексика,AndesCargo,AC56616125,03.10.2026,Returned to sender,08.10.2026
+100461,Бразилія,AndesCargo,AC60541457,22.09.2026,Delivered,03.10.2026
+100462,Мексика,AndesCargo,AC40271957,17.09.2026,Delivered,28.09.2026
+100463,Мексика,AndesCargo,AC62320527,08.10.2026,Held at customs,13.10.2026
+100464,Мексика,AndesCargo,AC75853800,01.10.2026,Returned to sender,06.10.2026
+100465,Канада,PostLink,PL61588201,12.10.2026,In transit,14.10.2026
+100466,Канада,PostLink,PL97883036,20.09.2026,Delivered,01.10.2026
+100467,Мексика,AndesCargo,AC81039544,04.10.2026,Delivered,07.10.2026
+100468,Канада,PostLink,PL24835363,03.10.2026,In transit,11.10.2026
+100469,Канада,PostLink,PL48928411,24.09.2026,Delivered,03.10.2026
+100470,Мексика,AndesCargo,AC67897156,06.10.2026,Out for delivery,13.10.2026
+100471,Мексика,SwiftParcel,SP3530912,10.10.2026,In transit,13.10.2026
+100472,Мексика,SwiftParcel,SP2128715,25.09.2026,Delivered,04.10.2026
+100473,Канада,PostLink,PL93908523,11.10.2026,In transit,14.10.2026
+100474,Мексика,AndesCargo,AC58112905,09.09.2026,Delivered,15.09.2026
+100475,Мексика,AndesCargo,AC37287837,30.09.2026,Held at customs,03.10.2026
+100476,Бразилія,SwiftParcel,SP8142771,05.10.2026,Held at customs,12.10.2026
+100477,Бразилія,SwiftParcel,SP7176078,06.10.2026,In transit,07.10.2026
+100478,Мексика,AndesCargo,AC78472036,23.09.2026,Delivered,03.10.2026
+100479,Канада,PostLink,PL74688601,10.09.2026,Delivered,18.09.2026
+100480,Канада,PostLink,PL28689697,23.09.2026,Delivered,26.09.2026
+100481,Мексика,SwiftParcel,SP1136935,12.10.2026,In transit,14.10.2026
+100482,Бразилія,SwiftParcel,SP7748759,29.09.2026,Delivered,09.10.2026
+100483,Мексика,AndesCargo,AC84732424,16.09.2026,Delivered,23.09.2026
+100484,Бразилія,SwiftParcel,SP5050220,23.09.2026,Delivered,03.10.2026
+100485,Мексика,AndesCargo,AC94480814,28.09.2026,In transit,29.09.2026
+100486,Мексика,SwiftParcel,SP8367163,25.09.2026,In transit,26.09.2026
+100487,Канада,PostLink,PL62618053,20.09.2026,Delivered,28.09.2026
+100488,Канада,PostLink,PL97336887,17.09.2026,In transit,25.09.2026
+100489,Бразилія,SwiftParcel,SP1293719,30.09.2026,Delivered,12.10.2026
+100490,Канада,PostLink,PL33565722,06.10.2026,Out for delivery,12.10.2026
+100491,Бразилія,SwiftParcel,SP9664203,09.09.2026,Delivered,16.09.2026
+100492,Канада,PostLink,PL86540403,20.09.2026,Delivered,25.09.2026
+100493,Бразилія,SwiftParcel,SP5300251,08.09.2026,Delivered,20.09.2026
+100494,Мексика,AndesCargo,AC82355409,08.09.2026,Delivered,17.09.2026
+100495,Канада,PostLink,PL32869319,03.10.2026,Delivered,11.10.2026
+100496,Мексика,AndesCargo,AC77555842,08.10.2026,In transit,11.10.2026
+100497,Бразилія,AndesCargo,AC62737793,15.09.2026,Delivered,27.09.2026
+100498,Мексика,AndesCargo,AC31419420,07.10.2026,Delivered,14.10.2026
+100499,Мексика,AndesCargo,AC26755794,04.10.2026,Address issue,09.10.2026
+100500,Мексика,AndesCargo,AC72808695,08.10.2026,Delivered,12.10.2026
+100501,Канада,PostLink,PL15573380,14.09.2026,Delivered,20.09.2026
+100502,Бразилія,SwiftParcel,SP1628201,12.09.2026,Delivered,16.09.2026
+100503,Мексика,AndesCargo,AC29668557,28.09.2026,Delivered,07.10.2026
+100504,Мексика,SwiftParcel,SP4749521,10.09.2026,Delivered,19.09.2026
+100505,Канада,PostLink,PL57281557,12.09.2026,Delivered,17.09.2026
+100506,Мексика,AndesCargo,AC99691462,17.09.2026,Delivered,29.09.2026
+100507,Бразилія,SwiftParcel,SP1254578,27.09.2026,In transit,28.09.2026
+100508,Канада,PostLink,PL10088323,27.09.2026,Delivered,01.10.2026
+100509,Мексика,SwiftParcel,SP6116936,26.09.2026,Delivered,07.10.2026
+100510,Бразилія,SwiftParcel,SP7429386,05.10.2026,In transit,13.10.2026
+100511,Мексика,AndesCargo,AC51091028,08.10.2026,Label created,08.10.2026
+100512,Бразилія,SwiftParcel,SP7141074,09.10.2026,Out for delivery,10.10.2026
+100513,Мексика,SwiftParcel,SP5610116,27.09.2026,Delivered,02.10.2026
+100514,Бразилія,SwiftParcel,SP6511184,13.09.2026,Delivered,19.09.2026
+100515,Мексика,SwiftParcel,SP1124740,26.09.2026,Delivered,08.10.2026
+100516,Мексика,AndesCargo,AC99796546,07.10.2026,Out for delivery,14.10.2026
+100517,Бразилія,SwiftParcel,SP5199786,06.10.2026,Address issue,08.10.2026
+100518,Бразилія,SwiftParcel,SP4339849,21.09.2026,Delivered,29.09.2026
+100519,Бразилія,AndesCargo,AC60485490,16.09.2026,Delivered,22.09.2026
+100520,Канада,PostLink,PL67408235,06.10.2026,In transit,09.10.2026
+100521,Мексика,SwiftParcel,SP2676946,13.09.2026,Delivered,20.09.2026
+100522,Канада,PostLink,PL99505571,07.10.2026,Delivered,11.10.2026
+100523,Мексика,AndesCargo,AC31645061,09.09.2026,Delivered,15.09.2026
+100524,Бразилія,SwiftParcel,SP6827446,15.09.2026,Delivered,23.09.2026
+100525,Мексика,SwiftParcel,SP9089168,30.09.2026,In transit,05.10.2026
+100526,Канада,PostLink,PL12252037,07.10.2026,Delivered,15.10.2026
+100527,Мексика,SwiftParcel,SP5354779,08.10.2026,Held at customs,12.10.2026
+100528,Мексика,AndesCargo,AC59702832,24.09.2026,Delivered,02.10.2026
+100529,Мексика,AndesCargo,AC55507244,01.10.2026,In transit,08.10.2026
+100530,Бразилія,SwiftParcel,SP7753410,06.10.2026,In transit,11.10.2026
+100531,Мексика,AndesCargo,AC20071318,22.09.2026,Delivered,04.10.2026
+100532,Бразилія,AndesCargo,AC92233923,05.10.2026,Address issue,09.10.2026
+100533,Мексика,AndesCargo,AC24251346,03.10.2026,Delivered,06.10.2026
+100534,Мексика,AndesCargo,AC93513056,10.10.2026,Label created,10.10.2026
+100535,Мексика,AndesCargo,AC66814964,04.10.2026,In transit,09.10.2026
+100536,Канада,PostLink,PL88790080,28.09.2026,Delivered,03.10.2026
+100537,Бразилія,SwiftParcel,SP9283796,28.09.2026,Address issue,05.10.2026
+100538,Мексика,AndesCargo,AC98518119,01.10.2026,Held at customs,04.10.2026
+100539,Бразилія,SwiftParcel,SP6012996,08.10.2026,In transit,09.10.2026
+100540,Мексика,AndesCargo,AC50785510,08.09.2026,Delivered,19.09.2026
+100541,Канада,PostLink,PL38306608,21.09.2026,Delivered,29.09.2026
+100542,Бразилія,SwiftParcel,SP5943083,04.09.2026,Delivered,16.09.2026
+100543,Канада,PostLink,PL54831333,29.09.2026,Delivered,06.10.2026
+100544,Канада,PostLink,PL98226714,07.09.2026,Delivered,17.09.2026
+100545,Мексика,AndesCargo,AC15310700,01.10.2026,Delivered,10.10.2026
+100546,Бразилія,SwiftParcel,SP1857271,08.09.2026,Delivered,16.09.2026
+100547,Мексика,AndesCargo,AC92892388,28.09.2026,Delivered,02.10.2026
+100548,Канада,PostLink,PL56222687,13.09.2026,Delivered,16.09.2026
+100549,Бразилія,SwiftParcel,SP9729508,26.09.2026,Delivered,02.10.2026
+100550,Мексика,AndesCargo,AC13498673,15.09.2026,Delivered,25.09.2026
+100551,Мексика,AndesCargo,AC67559461,05.10.2026,Out for delivery,09.10.2026
+100552,Мексика,AndesCargo,AC62395855,04.10.2026,Delivered,14.10.2026
+100553,Бразилія,AndesCargo,AC48636991,08.10.2026,In transit,15.10.2026
+100554,Бразилія,SwiftParcel,SP8034412,06.10.2026,Address issue,12.10.2026
+100555,Канада,PostLink,PL78633488,27.09.2026,Delivered,09.10.2026
+100556,Мексика,AndesCargo,AC97819893,16.09.2026,Delivered,25.09.2026
+100557,Мексика,AndesCargo,AC19693838,29.09.2026,Address issue,07.10.2026
+100558,Мексика,AndesCargo,AC44312380,27.09.2026,Delivered,03.10.2026
+100559,Канада,PostLink,PL34127425,03.10.2026,Delivered,07.10.2026
+100560,Бразилія,SwiftParcel,SP5987889,11.10.2026,In transit,13.10.2026
+100561,Мексика,AndesCargo,AC83659685,12.09.2026,Delivered,19.09.2026
+100562,Мексика,AndesCargo,AC11333330,22.09.2026,Delivered,03.10.2026
+100563,Мексика,AndesCargo,AC55618491,13.09.2026,Delivered,22.09.2026
+100564,Бразилія,SwiftParcel,SP2218410,17.09.2026,Delivered,23.09.2026
+100565,Мексика,AndesCargo,AC39569984,11.10.2026,In transit,12.10.2026
+100566,Бразилія,AndesCargo,AC92796375,04.10.2026,In transit,11.10.2026
+100567,Канада,PostLink,PL97662955,03.10.2026,In transit,10.10.2026
+100568,Мексика,AndesCargo,AC70657577,01.10.2026,Delivered,13.10.2026
+100569,Мексика,AndesCargo,AC35744077,17.09.2026,Delivered,24.09.2026
+100570,Мексика,AndesCargo,AC49253432,27.09.2026,Delivered,03.10.2026
+100571,Канада,PostLink,PL58543083,05.10.2026,Out for delivery,10.10.2026
+100572,Мексика,AndesCargo,AC35403754,19.09.2026,Delivered,25.09.2026
+100573,Канада,PostLink,PL32645931,02.10.2026,Delivered,09.10.2026
+100574,Мексика,AndesCargo,AC91670463,22.09.2026,Delivered,25.09.2026
+100575,Мексика,AndesCargo,AC60401001,02.10.2026,Delivered,09.10.2026
+100576,Бразилія,SwiftParcel,SP8324023,01.10.2026,Delivered,11.10.2026
+100577,Канада,PostLink,PL92868291,03.10.2026,In transit,09.10.2026
+100578,Мексика,AndesCargo,AC74868661,27.09.2026,Held at customs,02.10.2026
+100579,Канада,PostLink,PL19697063,11.10.2026,In transit,12.10.2026
+100580,Мексика,AndesCargo,AC15403742,20.09.2026,In transit,25.09.2026
+100581,Бразилія,SwiftParcel,SP8238262,23.09.2026,Held at customs,01.10.2026
+100582,Канада,PostLink,PL35981478,05.10.2026,Out for delivery,13.10.2026
+100583,Мексика,SwiftParcel,SP2357254,08.10.2026,Held at customs,10.10.2026
+100584,Канада,PostLink,PL86294004,27.09.2026,Delivered,05.10.2026
+100585,Бразилія,SwiftParcel,SP1871353,10.09.2026,Delivered,19.09.2026
+100586,Канада,PostLink,PL61493675,28.09.2026,Delivered,08.10.2026
+100587,Мексика,AndesCargo,AC56556048,22.09.2026,Delivered,26.09.2026
+100588,Мексика,AndesCargo,AC60788997,16.09.2026,Delivered,21.09.2026
+100589,Бразилія,SwiftParcel,SP5193983,11.10.2026,In transit,15.10.2026
+100590,Мексика,AndesCargo,AC11754310,04.09.2026,Delivered,15.09.2026
+100591,Канада,PostLink,PL17303838,13.09.2026,Delivered,19.09.2026
+100592,Мексика,SwiftParcel,SP8013462,04.10.2026,In transit,07.10.2026
+100593,Мексика,AndesCargo,AC90803170,02.10.2026,Out for delivery,05.10.2026
+100594,Мексика,AndesCargo,AC90963733,09.10.2026,In transit,12.10.2026
+100595,Канада,PostLink,PL30352512,05.10.2026,Delivered,09.10.2026
+100596,Мексика,AndesCargo,AC83594499,21.09.2026,Delivered,26.09.2026
+100597,Канада,PostLink,PL59951844,09.09.2026,Delivered,21.09.2026
+100598,Канада,PostLink,PL98131180,02.10.2026,Delivered,07.10.2026
+100599,Бразилія,SwiftParcel,SP4703194,16.09.2026,Delivered,28.09.2026
+100600,Канада,PostLink,PL67528431,03.10.2026,Delivered,12.10.2026
+100601,Канада,PostLink,PL54635802,19.09.2026,Delivered,28.09.2026
+100602,Канада,PostLink,PL16545401,14.10.2026,Label created,14.10.2026
+100603,Канада,PostLink,PL86897493,02.10.2026,In transit,10.10.2026
+100604,Бразилія,SwiftParcel,SP9006703,28.09.2026,Delivered,09.10.2026
+100605,Мексика,AndesCargo,AC24201838,30.09.2026,In transit,05.10.2026
+100606,Канада,PostLink,PL78726535,29.09.2026,Delivered,08.10.2026
+100607,Мексика,AndesCargo,AC37381323,08.10.2026,Out for delivery,15.10.2026
+100608,Бразилія,SwiftParcel,SP4535919,15.09.2026,Delivered,22.09.2026
+100609,Канада,PostLink,PL53699228,01.10.2026,Label created,01.10.2026
+100610,Бразилія,SwiftParcel,,26.09.2026,,
+100611,Мексика,SwiftParcel,SP7187850,20.09.2026,Delivered,30.09.2026
+100612,Мексика,AndesCargo,AC99401101,04.09.2026,Delivered,16.09.2026
+100613,Канада,PostLink,PL85133234,06.10.2026,Address issue,07.10.2026
+100614,Мексика,AndesCargo,AC96851703,09.10.2026,Label created,09.10.2026
+100615,Мексика,AndesCargo,AC68878041,13.09.2026,Delivered,18.09.2026
+100616,Мексика,SwiftParcel,SP5221612,06.10.2026,Delivered,11.10.2026
+100617,Бразилія,AndesCargo,AC26567096,02.10.2026,Delivered,13.10.2026
+100618,Канада,PostLink,PL59207542,23.09.2026,Held at customs,01.10.2026
+100619,Бразилія,SwiftParcel,SP3832628,27.09.2026,In transit,01.10.2026
+100620,Бразилія,SwiftParcel,SP9010135,05.10.2026,In transit,10.10.2026
+100621,Мексика,SwiftParcel,SP4574316,01.10.2026,Held at customs,05.10.2026
+100622,Канада,PostLink,PL14921719,05.10.2026,Address issue,06.10.2026
+100623,Мексика,AndesCargo,AC71219160,24.09.2026,Delivered,29.09.2026
+100624,Мексика,AndesCargo,AC15818700,30.09.2026,Delivered,11.10.2026
+100625,Мексика,SwiftParcel,SP8583176,22.09.2026,In transit,28.09.2026
+100626,Бразилія,AndesCargo,AC21533485,23.09.2026,Delivered,03.10.2026
+100627,Бразилія,AndesCargo,AC88442159,30.09.2026,Delivered,06.10.2026
+100628,Мексика,AndesCargo,AC64400110,07.10.2026,Out for delivery,15.10.2026
+100629,Мексика,AndesCargo,AC54287848,16.09.2026,Delivered,22.09.2026
+100630,Бразилія,AndesCargo,AC12495374,11.10.2026,Delivered,14.10.2026
+100631,Мексика,SwiftParcel,SP5461656,09.10.2026,In transit,10.10.2026
+100632,Мексика,SwiftParcel,SP1199034,11.10.2026,In transit,15.10.2026
+100633,Канада,PostLink,PL15239298,01.10.2026,In transit,09.10.2026
+100634,Бразилія,SwiftParcel,SP4848942,26.09.2026,Delivered,02.10.2026
+100635,Бразилія,SwiftParcel,SP1097774,04.10.2026,Delivered,07.10.2026
+100636,Мексика,SwiftParcel,SP3502225,30.09.2026,Label created,30.09.2026
+100637,Мексика,SwiftParcel,SP2301507,04.10.2026,Label created,04.10.2026
+100638,Мексика,SwiftParcel,SP3227150,09.10.2026,Returned to sender,12.10.2026
+100639,Мексика,AndesCargo,AC27379437,09.10.2026,In transit,13.10.2026
+100640,Канада,PostLink,PL89985713,13.10.2026,Out for delivery,14.10.2026
+100641,Мексика,AndesCargo,AC11163416,10.10.2026,Delivered,15.10.2026
+100642,Мексика,AndesCargo,AC63366457,14.09.2026,Delivered,23.09.2026
+100643,Мексика,AndesCargo,AC70119146,24.09.2026,Delivered,02.10.2026
+100644,Канада,PostLink,PL51809567,12.10.2026,Out for delivery,13.10.2026
+100645,Бразилія,SwiftParcel,SP1126418,06.10.2026,Held at customs,07.10.2026
+100646,Канада,PostLink,PL95567896,15.10.2026,Label created,15.10.2026
+100647,Канада,PostLink,PL39861942,03.10.2026,In transit,10.10.2026
+100648,Мексика,AndesCargo,AC39285042,07.10.2026,Held at customs,10.10.2026
+100649,Канада,PostLink,PL26374166,11.10.2026,Out for delivery,13.10.2026
+100650,Канада,PostLink,PL21115889,05.10.2026,Out for delivery,13.10.2026
+100651,Мексика,AndesCargo,AC34305749,12.09.2026,Delivered,17.09.2026
+100652,Мексика,AndesCargo,AC91960546,30.09.2026,Delivered,10.10.2026
+100653,Мексика,AndesCargo,AC19085271,05.10.2026,Delivered,09.10.2026
+100654,Мексика,AndesCargo,AC88057560,25.09.2026,Delivered,03.10.2026
+100655,Мексика,AndesCargo,AC35529403,22.09.2026,Delivered,26.09.2026
+100656,Бразилія,AndesCargo,AC56518230,12.09.2026,Delivered,22.09.2026
+100657,Мексика,AndesCargo,AC50820024,09.10.2026,Delivered,15.10.2026
+100658,Бразилія,SwiftParcel,SP4213007,11.10.2026,Label created,11.10.2026
+100659,Канада,PostLink,PL87854356,09.10.2026,Delivered,14.10.2026
+100660,Бразилія,SwiftParcel,SP2872991,09.10.2026,Returned to sender,14.10.2026
+100661,Канада,PostLink,PL72884234,07.10.2026,In transit,11.10.2026
+100662,Бразилія,SwiftParcel,SP9439777,12.09.2026,Delivered,20.09.2026
+100663,Канада,PostLink,PL68667766,01.10.2026,Delivered,13.10.2026
+100664,Мексика,AndesCargo,AC67443561,03.10.2026,Returned to sender,07.10.2026
+100665,Канада,PostLink,PL81415464,09.09.2026,Delivered,17.09.2026
+100666,Мексика,AndesCargo,AC12490947,03.10.2026,Delivered,09.10.2026
+100667,Мексика,AndesCargo,AC97196427,18.09.2026,Delivered,29.09.2026
+100668,Мексика,AndesCargo,AC10105655,14.09.2026,Delivered,20.09.2026
+100669,Мексика,AndesCargo,AC97997940,12.09.2026,Delivered,15.09.2026
+100670,Бразилія,SwiftParcel,SP4852006,09.10.2026,In transit,14.10.2026
+100671,Мексика,AndesCargo,AC44338164,11.10.2026,Returned to sender,13.10.2026
+100672,Канада,PostLink,PL83618703,23.09.2026,Delivered,26.09.2026
+100673,Мексика,AndesCargo,AC51793956,22.09.2026,In transit,28.09.2026
+100674,Мексика,SwiftParcel,SP7458316,07.10.2026,In transit,12.10.2026
+100675,Мексика,AndesCargo,AC24193046,09.10.2026,In transit,10.10.2026
+100676,Мексика,AndesCargo,AC42967694,22.09.2026,Delivered,25.09.2026
+100677,Бразилія,SwiftParcel,SP4604475,01.10.2026,Delivered,09.10.2026
+100678,Бразилія,AndesCargo,AC84932876,21.09.2026,Delivered,01.10.2026
+100679,Канада,PostLink,PL60530009,13.09.2026,Delivered,23.09.2026
+100680,Канада,PostLink,PL93466987,08.09.2026,Delivered,15.09.2026
+100681,Канада,PostLink,PL96240496,09.10.2026,In transit,12.10.2026
+100682,Канада,PostLink,PL39707119,01.10.2026,In transit,09.10.2026
+100683,Канада,PostLink,PL73637406,29.09.2026,Delivered,06.10.2026
+100684,Бразилія,SwiftParcel,SP3011697,08.10.2026,Address issue,10.10.2026
+100685,Мексика,AndesCargo,AC18279707,30.09.2026,Delivered,09.10.2026
+100686,Мексика,SwiftParcel,SP8132116,25.09.2026,Held at customs,02.10.2026
+100687,Мексика,AndesCargo,AC31441434,02.10.2026,Delivered,13.10.2026
+100688,Канада,PostLink,PL97918805,03.10.2026,In transit,11.10.2026
+100689,Канада,PostLink,PL70556576,08.10.2026,Delivered,11.10.2026
+100690,Бразилія,SwiftParcel,SP4655121,06.10.2026,In transit,12.10.2026
+100691,Канада,PostLink,PL87466688,14.09.2026,Delivered,24.09.2026
+100692,Бразилія,AndesCargo,AC48190603,04.10.2026,Out for delivery,11.10.2026
+100693,Мексика,AndesCargo,AC70092838,04.10.2026,Delivered,12.10.2026
+100694,Бразилія,AndesCargo,AC78321861,05.10.2026,In transit,09.10.2026
+100695,Бразилія,AndesCargo,AC44135638,06.10.2026,Delivered,11.10.2026
+100696,Мексика,SwiftParcel,SP8202361,07.10.2026,Held at customs,08.10.2026
+100697,Бразилія,SwiftParcel,SP8863878,08.10.2026,Delivered,13.10.2026
+100698,Бразилія,SwiftParcel,SP5901234,14.09.2026,Delivered,20.09.2026
+100699,Мексика,AndesCargo,AC26128327,01.10.2026,Delivered,06.10.2026
+100700,Мексика,SwiftParcel,SP8024515,17.09.2026,Delivered,24.09.2026
+100701,Канада,PostLink,PL79574215,12.10.2026,In transit,15.10.2026
+100702,Мексика,AndesCargo,AC58141342,13.09.2026,Delivered,16.09.2026
+100703,Бразилія,SwiftParcel,SP1528195,26.09.2026,Delivered,06.10.2026
+100704,Мексика,AndesCargo,AC32648379,22.09.2026,In transit,27.09.2026
+100705,Канада,PostLink,PL84541956,05.10.2026,Label created,05.10.2026
+100706,Мексика,AndesCargo,AC27658945,11.10.2026,Held at customs,14.10.2026
+100707,Мексика,AndesCargo,AC32471118,10.09.2026,Delivered,20.09.2026
+100708,Мексика,AndesCargo,AC66418976,10.10.2026,In transit,11.10.2026
+100709,Бразилія,SwiftParcel,SP9543042,18.09.2026,Delivered,21.09.2026
+100710,Канада,PostLink,PL86437092,30.09.2026,Delivered,12.10.2026
+100711,Мексика,AndesCargo,AC57491119,24.09.2026,Delivered,30.09.2026
+100712,Канада,PostLink,PL35407392,05.10.2026,In transit,11.10.2026
+100713,Бразилія,AndesCargo,AC68026197,23.09.2026,Delivered,30.09.2026
+100714,Мексика,AndesCargo,AC79301435,20.09.2026,Delivered,01.10.2026
+100715,Канада,PostLink,PL30656052,08.09.2026,Delivered,17.09.2026
+100716,Бразилія,AndesCargo,AC21109824,15.09.2026,Delivered,21.09.2026
+100717,Мексика,AndesCargo,AC98618982,18.09.2026,Delivered,26.09.2026
+100718,Мексика,AndesCargo,AC31295456,30.09.2026,Address issue,06.10.2026
+100719,Бразилія,AndesCargo,AC49355492,07.10.2026,Delivered,13.10.2026
+100720,Мексика,AndesCargo,AC85838157,30.09.2026,Label created,30.09.2026
+100721,Мексика,AndesCargo,AC80244047,25.09.2026,Delivered,03.10.2026
+100722,Канада,PostLink,PL29129557,25.09.2026,Delivered,30.09.2026
+100723,Бразилія,SwiftParcel,SP4480045,20.09.2026,Delivered,25.09.2026
+100724,Канада,PostLink,PL28526333,28.09.2026,Delivered,08.10.2026
+100725,Мексика,AndesCargo,AC62927057,19.09.2026,Delivered,28.09.2026
+100726,Бразилія,SwiftParcel,SP8895199,03.10.2026,In transit,10.10.2026
+100727,Бразилія,SwiftParcel,SP7342106,18.09.2026,Delivered,24.09.2026
+100728,Мексика,AndesCargo,AC69075892,03.10.2026,Address issue,06.10.2026
+100729,Канада,PostLink,PL56642559,09.10.2026,Out for delivery,10.10.2026
+100730,Мексика,SwiftParcel,SP6549746,18.09.2026,In transit,26.09.2026
+100731,Бразилія,SwiftParcel,SP2226877,08.10.2026,In transit,15.10.2026
+100732,Мексика,AndesCargo,AC21719819,02.10.2026,Held at customs,04.10.2026
+100733,Мексика,SwiftParcel,SP4496203,04.10.2026,Delivered,07.10.2026
+100734,Мексика,SwiftParcel,SP6962906,17.09.2026,Delivered,24.09.2026
+100735,Бразилія,SwiftParcel,SP2934103,01.10.2026,In transit,07.10.2026
+100736,Бразилія,SwiftParcel,SP1172224,04.10.2026,Held at customs,06.10.2026
+100737,Бразилія,AndesCargo,AC38333967,20.09.2026,Delivered,02.10.2026
+100738,Бразилія,SwiftParcel,SP9619026,04.10.2026,Held at customs,12.10.2026
+100739,Канада,PostLink,PL30580331,08.10.2026,In transit,13.10.2026
+100740,Бразилія,SwiftParcel,SP6297311,07.10.2026,Delivered,10.10.2026
+100741,Бразилія,SwiftParcel,SP5303555,06.10.2026,Delivered,12.10.2026
+100742,Мексика,SwiftParcel,SP9372934,30.09.2026,Label created,30.09.2026
+100743,Канада,PostLink,PL96278006,03.10.2026,Delivered,06.10.2026
+100744,Мексика,AndesCargo,AC42687175,19.09.2026,Delivered,24.09.2026
+100745,Бразилія,SwiftParcel,SP2128715,09.10.2026,Delivered,12.10.2026
+100746,Мексика,AndesCargo,AC20823978,23.09.2026,In transit,25.09.2026
+100747,Мексика,AndesCargo,AC83153871,13.09.2026,Delivered,20.09.2026
+100748,Мексика,AndesCargo,AC26174705,25.09.2026,Delivered,06.10.2026
+100749,Мексика,AndesCargo,AC69061754,15.09.2026,Delivered,21.09.2026
+100750,Мексика,AndesCargo,AC73989023,19.09.2026,In transit,26.09.2026
+100751,Бразилія,AndesCargo,AC72917341,26.09.2026,Delivered,06.10.2026
+100752,Мексика,AndesCargo,AC36784190,07.09.2026,Delivered,18.09.2026
+100753,Бразилія,SwiftParcel,SP4331099,07.10.2026,Out for delivery,14.10.2026
+100754,Канада,PostLink,PL25428973,08.10.2026,Delivered,14.10.2026
+100755,Мексика,SwiftParcel,SP8246701,08.10.2026,Delivered,14.10.2026
+100756,Бразилія,SwiftParcel,SP8533882,21.09.2026,Delivered,01.10.2026
+100757,Мексика,AndesCargo,AC27487450,09.09.2026,Delivered,16.09.2026
+100758,Мексика,AndesCargo,AC65710503,18.09.2026,Delivered,22.09.2026
+100759,Мексика,AndesCargo,AC96159125,16.09.2026,Delivered,19.09.2026
+100760,Мексика,AndesCargo,AC50669413,05.10.2026,Address issue,09.10.2026
+100761,Бразилія,AndesCargo,AC41229061,13.09.2026,Delivered,21.09.2026
+100762,Бразилія,AndesCargo,AC50929685,06.10.2026,In transit,11.10.2026
+100763,Мексика,AndesCargo,AC30724803,02.10.2026,In transit,08.10.2026
+100764,Мексика,AndesCargo,AC40341652,10.10.2026,In transit,12.10.2026
+100765,Мексика,AndesCargo,AC36477753,03.10.2026,Delivered,08.10.2026
+100766,Мексика,AndesCargo,AC14993717,11.10.2026,In transit,13.10.2026
+100767,Мексика,SwiftParcel,SP5829280,03.10.2026,In transit,09.10.2026
+100768,Мексика,SwiftParcel,SP2917377,12.10.2026,In transit,13.10.2026
+100769,Мексика,AndesCargo,AC99838954,14.10.2026,Label created,14.10.2026
+100770,Канада,PostLink,PL75988729,04.10.2026,Delivered,07.10.2026
+100771,Бразилія,SwiftParcel,SP3861244,07.10.2026,In transit,11.10.2026
+100772,Мексика,AndesCargo,AC37032495,01.10.2026,Delivered,09.10.2026
+100773,Канада,PostLink,PL85943646,23.09.2026,Delivered,02.10.2026
+100774,Бразилія,SwiftParcel,SP4085470,30.09.2026,In transit,05.10.2026
+100775,Мексика,AndesCargo,AC78485386,04.10.2026,Delivered,11.10.2026
+100776,Бразилія,SwiftParcel,SP9314236,20.09.2026,Delivered,01.10.2026
+100777,Канада,PostLink,PL61932283,19.09.2026,Delivered,22.09.2026
+100778,Канада,PostLink,PL97886341,10.10.2026,In transit,12.10.2026
+100779,Канада,PostLink,PL90636095,04.10.2026,In transit,09.10.2026
+100780,Мексика,AndesCargo,AC28804438,26.09.2026,Delivered,29.09.2026
+100781,Мексика,AndesCargo,AC31998807,18.09.2026,Delivered,22.09.2026
+100782,Мексика,AndesCargo,AC20645546,16.09.2026,Delivered,21.09.2026
+100783,Бразилія,AndesCargo,AC67147847,25.09.2026,Delivered,29.09.2026
+100784,Канада,PostLink,PL64523814,01.10.2026,Delivered,11.10.2026
+100785,Мексика,AndesCargo,AC81114109,09.10.2026,In transit,11.10.2026
+100786,Бразилія,SwiftParcel,SP9051970,08.10.2026,In transit,14.10.2026
+100787,Мексика,AndesCargo,AC66993938,24.09.2026,In transit,27.09.2026
+100788,Канада,PostLink,PL43712749,18.09.2026,Delivered,25.09.2026
+100789,Мексика,AndesCargo,AC63498887,27.09.2026,Delivered,06.10.2026
+100790,Мексика,AndesCargo,AC65389408,05.09.2026,Delivered,17.09.2026
+100791,Канада,PostLink,PL95496286,23.09.2026,Delivered,30.09.2026
+100792,Канада,PostLink,PL73288810,03.09.2026,Delivered,15.09.2026
+100793,Мексика,AndesCargo,AC56258803,10.09.2026,Delivered,20.09.2026
+100794,Бразилія,SwiftParcel,SP3536533,07.09.2026,Delivered,17.09.2026
+100795,Бразилія,AndesCargo,AC84270950,17.09.2026,Delivered,21.09.2026
+100796,Мексика,AndesCargo,AC93964016,06.10.2026,Returned to sender,13.10.2026
+100797,Мексика,AndesCargo,AC97978029,23.09.2026,Delivered,26.09.2026
+100798,Бразилія,SwiftParcel,SP7591431,27.09.2026,Delivered,07.10.2026
+100799,Мексика,AndesCargo,AC81163886,27.09.2026,Delivered,07.10.2026
+100800,Канада,PostLink,PL26337112,13.09.2026,Delivered,22.09.2026
+100801,Бразилія,SwiftParcel,SP8868813,06.10.2026,Held at customs,09.10.2026
+100802,Мексика,AndesCargo,AC76301961,08.10.2026,In transit,11.10.2026
+100803,Мексика,AndesCargo,AC54885825,04.10.2026,Held at customs,11.10.2026
+100804,Бразилія,SwiftParcel,SP8313454,03.10.2026,Delivered,06.10.2026
+100805,Бразилія,SwiftParcel,SP7790376,19.09.2026,Delivered,27.09.2026
+100806,Мексика,AndesCargo,AC56973192,10.09.2026,Delivered,19.09.2026
+100807,Мексика,SwiftParcel,SP3020216,26.09.2026,Held at customs,01.10.2026
+100808,Мексика,AndesCargo,AC88883561,30.09.2026,Delivered,06.10.2026
+100809,Мексика,AndesCargo,AC24818679,07.10.2026,Out for delivery,13.10.2026
+100810,Бразилія,SwiftParcel,SP7253533,21.09.2026,Delivered,28.09.2026
+100811,Бразилія,SwiftParcel,SP6251991,23.09.2026,Delivered,03.10.2026
+100812,Бразилія,AndesCargo,AC28306866,04.10.2026,Returned to sender,08.10.2026
+100813,Бразилія,SwiftParcel,SP5722486,13.09.2026,Delivered,18.09.2026
+100814,Канада,PostLink,PL92477576,17.09.2026,Delivered,23.09.2026
+100815,Мексика,SwiftParcel,SP8733504,02.10.2026,In transit,10.10.2026
+100816,Бразилія,SwiftParcel,SP6779939,07.10.2026,Delivered,13.10.2026
+100817,Мексика,SwiftParcel,SP9386515,15.09.2026,Delivered,24.09.2026
+100818,Бразилія,AndesCargo,AC46011896,05.10.2026,Delivered,09.10.2026
+100819,Мексика,AndesCargo,AC82958886,25.09.2026,Delivered,05.10.2026
+100820,Канада,PostLink,PL96598440,11.09.2026,Delivered,22.09.2026
+100821,Мексика,AndesCargo,AC29399646,10.10.2026,In transit,12.10.2026
+100822,Мексика,SwiftParcel,SP4661562,06.10.2026,Held at customs,13.10.2026
+100823,Бразилія,AndesCargo,AC25097669,12.09.2026,Delivered,24.09.2026
+100824,Мексика,SwiftParcel,SP3086344,17.09.2026,Delivered,25.09.2026
+100825,Канада,PostLink,PL62953523,25.09.2026,Delivered,04.10.2026
+100826,Бразилія,SwiftParcel,SP6036478,23.09.2026,Held at customs,01.10.2026
+100827,Мексика,SwiftParcel,SP3237890,22.09.2026,Delivered,01.10.2026
+100828,Мексика,AndesCargo,AC54566145,14.09.2026,Delivered,18.09.2026
+100829,Бразилія,SwiftParcel,SP2587505,09.10.2026,Held at customs,10.10.2026
+100830,Мексика,AndesCargo,AC10605830,21.09.2026,Delivered,24.09.2026
+100831,Бразилія,AndesCargo,AC68938768,01.10.2026,Delivered,10.10.2026
+100832,Мексика,AndesCargo,AC63920505,16.09.2026,Delivered,28.09.2026
+100833,Бразилія,SwiftParcel,SP9471839,02.10.2026,In transit,06.10.2026
+100834,Канада,PostLink,PL48715704,30.09.2026,Delivered,05.10.2026
+100835,Бразилія,SwiftParcel,SP3445683,08.10.2026,In transit,11.10.2026
+100836,Мексика,AndesCargo,AC75723904,11.10.2026,In transit,15.10.2026
+100837,Канада,PostLink,PL95056359,24.09.2026,Delivered,04.10.2026
+100838,Бразилія,SwiftParcel,SP7358709,26.09.2026,Delivered,02.10.2026
+100839,Канада,PostLink,PL80572719,13.09.2026,Delivered,16.09.2026
+100840,Канада,PostLink,PL67507896,23.09.2026,Delivered,29.09.2026
+100841,Мексика,AndesCargo,AC43812076,01.10.2026,Held at customs,07.10.2026
+100842,Бразилія,AndesCargo,AC56956820,01.10.2026,Held at customs,03.10.2026
+100843,Бразилія,SwiftParcel,SP8367833,05.09.2026,Delivered,16.09.2026
+100844,Бразилія,SwiftParcel,SP6412707,01.10.2026,In transit,09.10.2026
+100845,Канада,PostLink,PL34102112,30.09.2026,Delivered,04.10.2026
+100846,Бразилія,SwiftParcel,SP2268004,01.10.2026,Delivered,11.10.2026
+100847,Мексика,AndesCargo,AC35083304,22.09.2026,Delivered,30.09.2026
+100848,Канада,PostLink,PL84359200,20.09.2026,Delivered,01.10.2026
+100849,Бразилія,AndesCargo,AC73101213,10.10.2026,In transit,15.10.2026
+100850,Бразилія,SwiftParcel,SP5307062,02.10.2026,Delivered,06.10.2026
+100851,Бразилія,AndesCargo,AC50586351,08.09.2026,Delivered,20.09.2026
+100852,Мексика,SwiftParcel,SP2569045,08.09.2026,Delivered,17.09.2026
+100853,Бразилія,AndesCargo,AC91016035,04.10.2026,Label created,04.10.2026
+100854,Мексика,AndesCargo,AC92891976,08.09.2026,Delivered,19.09.2026
+100855,Канада,PostLink,PL61903695,04.10.2026,Delivered,11.10.2026
+100856,Мексика,SwiftParcel,SP3406199,04.10.2026,Delivered,07.10.2026
+100857,Мексика,AndesCargo,AC96998703,12.10.2026,Delivered,15.10.2026
+100858,Канада,PostLink,PL96184980,27.09.2026,Delivered,08.10.2026
+100859,Мексика,AndesCargo,AC33915676,05.10.2026,Delivered,11.10.2026
+100860,Бразилія,AndesCargo,AC53031766,30.09.2026,Delivered,10.10.2026
+100861,Бразилія,SwiftParcel,SP9756051,10.10.2026,In transit,13.10.2026
+100862,Мексика,AndesCargo,AC40840451,06.09.2026,Delivered,16.09.2026
+100863,Мексика,AndesCargo,AC30252487,30.09.2026,Address issue,05.10.2026
+100864,Бразилія,SwiftParcel,SP1071574,09.10.2026,Delivered,12.10.2026
+100865,Бразилія,AndesCargo,AC31349912,06.10.2026,Delivered,14.10.2026
+100866,Бразилія,SwiftParcel,SP5886622,05.10.2026,Delivered,08.10.2026
+100867,Бразилія,SwiftParcel,SP2500118,06.10.2026,In transit,12.10.2026
+100868,Бразилія,SwiftParcel,SP7209095,18.09.2026,Delivered,22.09.2026
+100869,Канада,PostLink,PL70150905,22.09.2026,Delivered,01.10.2026
+100870,Бразилія,SwiftParcel,SP4958603,03.10.2026,In transit,05.10.2026
+100871,Мексика,AndesCargo,AC26380850,30.09.2026,Delivered,04.10.2026
+100872,Мексика,AndesCargo,AC94435188,06.10.2026,In transit,11.10.2026
+100873,Бразилія,SwiftParcel,SP4552621,06.10.2026,Address issue,13.10.2026
+100874,Мексика,AndesCargo,AC68235488,05.10.2026,Delivered,09.10.2026
+100875,Канада,PostLink,PL44391917,01.10.2026,Delivered,08.10.2026
+100876,Бразилія,SwiftParcel,SP7481682,28.09.2026,Returned to sender,06.10.2026
+100877,Мексика,AndesCargo,AC74696152,01.10.2026,Held at customs,09.10.2026
+100878,Канада,PostLink,PL54760646,27.09.2026,Delivered,09.10.2026
+100879,Канада,PostLink,PL90256957,29.09.2026,Delivered,05.10.2026
+100880,Бразилія,SwiftParcel,SP3224483,24.09.2026,In transit,26.09.2026
+100881,Мексика,AndesCargo,AC85725131,17.09.2026,Delivered,25.09.2026
+100882,Канада,PostLink,PL47326828,08.10.2026,In transit,12.10.2026
+100883,Мексика,AndesCargo,AC39999266,04.10.2026,Delivered,12.10.2026
+100884,Бразилія,SwiftParcel,SP4539877,03.10.2026,Delivered,12.10.2026
+100885,Бразилія,SwiftParcel,SP2490455,08.09.2026,Delivered,19.09.2026
+100886,Бразилія,AndesCargo,AC56399860,02.10.2026,Delivered,11.10.2026
+100887,Мексика,AndesCargo,AC98154921,21.09.2026,Delivered,26.09.2026
+100888,Мексика,AndesCargo,AC40975611,29.09.2026,Label created,29.09.2026
+100889,Канада,PostLink,PL52631677,21.09.2026,Delivered,30.09.2026
+100890,Бразилія,SwiftParcel,SP9865589,15.10.2026,Label created,15.10.2026
+100891,Канада,PostLink,PL13247309,05.10.2026,In transit,10.10.2026
+100892,Мексика,SwiftParcel,SP2666506,09.10.2026,In transit,14.10.2026
+100893,Бразилія,SwiftParcel,SP2369426,07.10.2026,In transit,15.10.2026
+100894,Бразилія,AndesCargo,AC91985903,06.10.2026,In transit,13.10.2026
+100895,Мексика,AndesCargo,AC42423525,08.10.2026,Out for delivery,13.10.2026
+100896,Мексика,SwiftParcel,SP1778548,29.09.2026,Delivered,08.10.2026
+100897,Мексика,AndesCargo,AC37951123,12.10.2026,In transit,14.10.2026
+100898,Мексика,AndesCargo,AC56876071,04.10.2026,Address issue,10.10.2026
+100899,Канада,PostLink,PL61102688,30.09.2026,Delivered,08.10.2026
+100900,Канада,PostLink,PL22401895,07.10.2026,Out for delivery,13.10.2026
+100901,Мексика,AndesCargo,AC19841477,04.10.2026,Out for delivery,09.10.2026
+100902,Бразилія,SwiftParcel,SP9852083,26.09.2026,In transit,27.09.2026
+100903,Мексика,AndesCargo,AC54480457,02.10.2026,Address issue,10.10.2026
+100904,Канада,PostLink,PL23284856,06.10.2026,In transit,10.10.2026
+100905,Бразилія,SwiftParcel,SP4094239,06.09.2026,Delivered,18.09.2026
+100906,Бразилія,AndesCargo,AC34497823,16.09.2026,Delivered,19.09.2026
+100907,Бразилія,SwiftParcel,SP7858386,13.09.2026,Delivered,24.09.2026
+100908,Канада,PostLink,PL23897695,10.10.2026,Delivered,13.10.2026
+100909,Бразилія,SwiftParcel,SP4355940,07.10.2026,In transit,14.10.2026
+100910,Канада,PostLink,PL48623204,22.09.2026,Delivered,03.10.2026
+100911,Бразилія,SwiftParcel,SP7928163,07.10.2026,In transit,09.10.2026
+100912,Мексика,AndesCargo,AC58196394,01.10.2026,Delivered,12.10.2026
+100913,Мексика,AndesCargo,AC20968417,14.10.2026,In transit,15.10.2026
+100914,Мексика,AndesCargo,AC14435191,09.10.2026,Held at customs,13.10.2026
+100915,Бразилія,SwiftParcel,SP1838344,26.09.2026,Delivered,30.09.2026
+100916,Канада,PostLink,PL74325253,21.09.2026,Delivered,30.09.2026
+100917,Бразилія,SwiftParcel,SP9959123,13.10.2026,In transit,15.10.2026
+100918,Канада,PostLink,PL12928094,11.10.2026,In transit,14.10.2026
+100919,Мексика,SwiftParcel,SP6594900,12.10.2026,Address issue,15.10.2026
+100920,Бразилія,SwiftParcel,SP6168081,03.10.2026,In transit,11.10.2026
+100921,Канада,PostLink,PL18597790,30.09.2026,Label created,30.09.2026
+100922,Канада,PostLink,PL97203178,08.10.2026,Out for delivery,09.10.2026
+100923,Мексика,AndesCargo,AC39532626,08.10.2026,Held at customs,13.10.2026
+100924,Канада,PostLink,PL98038591,29.09.2026,Delivered,03.10.2026
+100925,Мексика,AndesCargo,AC80720306,06.10.2026,Held at customs,13.10.2026
+100926,Мексика,AndesCargo,AC29291317,05.10.2026,Held at customs,06.10.2026
+100927,Канада,PostLink,PL25636504,30.09.2026,Delivered,11.10.2026
+100928,Бразилія,SwiftParcel,SP3416223,20.09.2026,In transit,28.09.2026
+100929,Бразилія,SwiftParcel,SP8692839,25.09.2026,Delivered,07.10.2026
+100930,Мексика,AndesCargo,AC12933612,10.10.2026,In transit,12.10.2026
+100931,Мексика,AndesCargo,AC68155779,18.09.2026,Delivered,26.09.2026
+100932,Бразилія,SwiftParcel,SP1490752,13.10.2026,Label created,13.10.2026
+100933,Мексика,SwiftParcel,SP4367274,05.10.2026,Held at customs,09.10.2026
+100934,Канада,PostLink,PL18257351,24.09.2026,Delivered,29.09.2026
+100935,Мексика,AndesCargo,AC56717642,09.09.2026,Delivered,17.09.2026
+100936,Канада,PostLink,PL27568864,21.09.2026,In transit,29.09.2026
+100937,Мексика,AndesCargo,AC59107961,08.10.2026,Delivered,15.10.2026
+100938,Мексика,SwiftParcel,SP8014954,10.10.2026,Out for delivery,14.10.2026
+100939,Канада,PostLink,PL60934829,20.09.2026,Delivered,02.10.2026
+100940,Мексика,AndesCargo,AC23467354,24.09.2026,In transit,28.09.2026
+100941,Бразилія,SwiftParcel,SP7045367,21.09.2026,Delivered,03.10.2026
+100942,Мексика,AndesCargo,AC77080790,11.10.2026,In transit,14.10.2026
+100943,Бразилія,AndesCargo,AC48648438,26.09.2026,Delivered,01.10.2026
+100944,Мексика,AndesCargo,AC40707046,24.09.2026,Delivered,27.09.2026
+100945,Бразилія,SwiftParcel,SP5016987,26.09.2026,Held at customs,01.10.2026
+100946,Канада,PostLink,PL41557135,05.10.2026,In transit,10.10.2026
+100947,Мексика,AndesCargo,AC71541764,08.10.2026,In transit,12.10.2026
+100948,Канада,PostLink,PL41211194,02.10.2026,Delivered,05.10.2026
+100949,Мексика,AndesCargo,AC19855910,01.10.2026,Delivered,12.10.2026
+100950,Мексика,SwiftParcel,SP8686004,30.09.2026,Address issue,07.10.2026
+100951,Канада,PostLink,PL83172927,27.09.2026,Delivered,03.10.2026
+100952,Мексика,SwiftParcel,SP9591532,08.09.2026,Delivered,19.09.2026
+100953,Мексика,AndesCargo,AC95361213,08.10.2026,In transit,15.10.2026
+100954,Бразилія,AndesCargo,AC33596679,07.10.2026,In transit,13.10.2026
+100955,Мексика,SwiftParcel,SP5134159,09.09.2026,Delivered,20.09.2026
+100956,Бразилія,AndesCargo,AC44162376,04.10.2026,Delivered,08.10.2026
+100957,Канада,PostLink,PL62875627,12.10.2026,In transit,13.10.2026
+100958,Мексика,AndesCargo,AC17323395,05.10.2026,Address issue,09.10.2026
+100959,Бразилія,SwiftParcel,SP5977159,03.10.2026,Delivered,11.10.2026
+100960,Бразилія,SwiftParcel,SP7276113,05.10.2026,In transit,10.10.2026
+100961,Мексика,AndesCargo,AC54247238,22.09.2026,Delivered,01.10.2026
+100962,Мексика,AndesCargo,AC98513338,08.10.2026,In transit,10.10.2026
+100963,Мексика,AndesCargo,AC77197354,12.09.2026,Delivered,17.09.2026
+100964,Бразилія,AndesCargo,AC52382187,08.10.2026,In transit,15.10.2026
+100965,Канада,PostLink,PL38233971,30.09.2026,Delivered,09.10.2026
+100966,Мексика,AndesCargo,AC38368501,03.10.2026,Delivered,13.10.2026
+100967,Бразилія,SwiftParcel,SP7479557,06.10.2026,Held at customs,08.10.2026
+100968,Мексика,AndesCargo,AC72652964,08.10.2026,Label created,08.10.2026
+100969,Канада,PostLink,PL57362880,07.10.2026,Delivered,10.10.2026
+100970,Мексика,SwiftParcel,SP3290485,01.10.2026,Label created,01.10.2026
+100971,Мексика,AndesCargo,AC90939403,12.09.2026,Delivered,18.09.2026
+100972,Бразилія,SwiftParcel,SP9345322,02.10.2026,Delivered,07.10.2026
+100973,Бразилія,SwiftParcel,SP3604543,07.10.2026,Held at customs,08.10.2026
+100974,Мексика,AndesCargo,AC96933639,12.10.2026,Out for delivery,15.10.2026
+100975,Канада,PostLink,PL48274815,12.09.2026,Delivered,17.09.2026
+100976,Канада,PostLink,PL70203155,09.10.2026,Out for delivery,14.10.2026
+100977,Бразилія,SwiftParcel,SP6498500,07.10.2026,In transit,14.10.2026
+100978,Бразилія,AndesCargo,AC21860932,03.10.2026,In transit,10.10.2026
+100979,Мексика,AndesCargo,AC34264801,10.09.2026,Delivered,17.09.2026
+100980,Канада,PostLink,PL56610204,26.09.2026,Delivered,04.10.2026
+100981,Канада,PostLink,PL39217453,05.09.2026,Delivered,16.09.2026
+100982,Мексика,AndesCargo,AC42199294,05.10.2026,Delivered,02.10.2026
+100983,Бразилія,SwiftParcel,SP6611212,07.09.2026,Delivered,17.09.2026
+100984,Мексика,AndesCargo,AC75485423,05.10.2026,Delivered,15.10.2026
+100985,Бразилія,AndesCargo,AC48357312,28.09.2026,Delivered,03.10.2026
+100986,Канада,PostLink,PL63586561,06.09.2026,Delivered,18.09.2026
+100987,Мексика,AndesCargo,AC58651765,06.10.2026,In transit,12.10.2026
+100988,Бразилія,SwiftParcel,SP9703411,15.09.2026,Delivered,18.09.2026
+100989,Мексика,SwiftParcel,SP8927210,06.10.2026,Delivered,14.10.2026
+100990,Бразилія,SwiftParcel,SP1583325,03.10.2026,Held at customs,04.10.2026
+100991,Канада,PostLink,PL67622199,30.09.2026,Address issue,08.10.2026
+100992,Бразилія,SwiftParcel,SP6107184,01.10.2026,Delivered,08.10.2026
+100993,Мексика,AndesCargo,AC76546108,25.09.2026,Delivered,02.10.2026
+100994,Мексика,AndesCargo,AC28632934,02.10.2026,In transit,10.10.2026
+100995,Мексика,AndesCargo,AC14779813,05.10.2026,In transit,11.10.2026
+100996,Канада,PostLink,PL39888920,18.09.2026,Delivered,29.09.2026
+100997,Канада,PostLink,PL18660015,27.09.2026,Delivered,01.10.2026
+100998,Канада,PostLink,PL50982392,30.09.2026,Delivered,11.10.2026
+100999,Бразилія,SwiftParcel,SP1879751,11.09.2026,Delivered,16.09.2026
+101000,Мексика,AndesCargo,AC74450910,20.09.2026,Delivered,26.09.2026
