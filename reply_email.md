@@ -6,7 +6,7 @@ Thank you for the task. Please find my work below.
 
 Links
 - Google Sheet (view): https://docs.google.com/spreadsheets/d/1j-qCsRdKpHl9rF1blK6gVyzYbV6dJ1wdOFeHYwliScU/edit?usp=sharing
-- Script, JSON export and all write-ups: https://github.com/diffary/mayab-stuck-parcels
+- Script, JSON export and all write-ups: https://github.com/diffary/mayab-shipping
 - Voice message: [link to mp3]
 
 Part 1
