@@ -37,7 +37,7 @@ def stuck_reason(row, today, idle_days, customs_days, final_statuses, always_stu
     """Return the rule that fired, or None if the parcel is fine."""
     status = row["Last event"].strip()
     if status in always_stuck:
-        return "address issue"
+        return f"always stuck: {status}"
     if status in final_statuses:
         return None
     idle = days_idle(row, today)
